@@ -1,0 +1,14 @@
+firecrawl
+beautifulsoup4
+python-dotenv
+requests
+fastapi
+uvicorn
+pymongo
+python-dotenv
+crawl4ai
+praw
+feedparser
+google-generativeai
+pytz
+
